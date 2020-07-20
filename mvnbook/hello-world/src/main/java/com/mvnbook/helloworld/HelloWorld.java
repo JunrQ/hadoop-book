@@ -1,8 +1,8 @@
-package com.hadoopbook.mvnbook.helloworld;
+package com.mvnbook.helloworld;
 
 public class HelloWorld {
   public String sayHello() {
-    return "Hello World";
+    return "Hello Maven";
   }
 
   public static void main(String[] args) {
